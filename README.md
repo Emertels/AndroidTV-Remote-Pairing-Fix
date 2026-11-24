@@ -29,8 +29,7 @@ Utilitário portátil e inteligente desenvolvido por **Emerson Teles** (com assi
    - [Método 2: Direto no TV Box sem Computador (via LADB)](#método-2-direto-no-tv-box-sem-computador-via-ladb)
 4. [Recursos Extras e Otimizações de Sistema](#-recursos-extras-e-otimizações-de-sistema)
 5. [Estrutura do Repositório](#-estrutura-do-repositório)
-6. [Licença](#-licença)
-7. [Sobre o Autor & Redes Oficiais](#-sobre-o-autor--redes-oficiais)
+6. [Sobre o Autor & Redes Oficiais](#-sobre-o-autor--redes-oficiais)
 
 ---
 
@@ -135,12 +134,6 @@ AndroidTV-Remote-Pairing-Fix/
 ├── CHANGELOG.md                 # Registro histórico de alterações
 └── LICENSE                      # Licença de código aberto MIT
 ```
-
----
-
-## 📄 Licença
-
-Distribuído sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
