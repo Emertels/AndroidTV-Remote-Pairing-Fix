@@ -12,6 +12,10 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="Licença MIT"></a>
 </p>
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Android TV Remote Pairing Fix Banner" width="100%">
+</p>
+
 Utilitário portátil e inteligente desenvolvido por **Emerson Teles** (com assistência técnica do **Gemini**) para solucionar de forma definitiva o problema de travamento na tela de pareamento forçado de controle remoto (`com.mft.rcupair`) e fornecer otimização total para TV Sticks e TV Boxes (Mecool, Mibro, Skyworth e compatíveis rodando Android 11, 12 e 14 / Google TV).
 
 ---

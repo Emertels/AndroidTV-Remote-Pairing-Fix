@@ -12,6 +12,10 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="MIT License"></a>
 </p>
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Android TV Remote Pairing Fix Banner" width="100%">
+</p>
+
 A lightweight, intelligent portable utility developed by **Emerson Teles** (with technical assistance from **Gemini**) to permanently solve the chronic boot-lock issue caused by forced OEM remote pairing screens (`com.mft.rcupair`) and provide complete system debloating and optimization for TV Sticks and TV Boxes (Mecool, Mibro, Skyworth, and compatible hardware running Android 11, 12, and 14 / Google TV).
 
 ---
